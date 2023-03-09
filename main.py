@@ -1,4 +1,4 @@
-def twoSum(self, nums: List[int], target: int) -> List[int]:
+def twoSum(nums: List[int], target: int) -> List[int]:
   # YOUR ANSWER
   hash_table = {}
   
